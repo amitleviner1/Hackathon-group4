@@ -1,4 +1,5 @@
-import pygame, sys
+import pygame
+import sys
 from button import Button
 
 pygame.init()
