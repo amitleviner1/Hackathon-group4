@@ -1,4 +1,3 @@
-py
 db = {
     "ngos": {
         # כרמיאל
@@ -21,10 +20,8 @@ db = {
             "type": "volunteer",
             "donors": [],
             "donations": []
-
         },
-
-        # ראשון לציון
+        # ראשלצ
         "Rishon LeZion Foundation": {
             "phone": "03-535-4312",
             "address": "Ha'Aluf David 2, Rishon LeZion",
@@ -36,7 +33,6 @@ db = {
             "donations": []
 
         },
-
         "WIZO Rishon LeZion": {
             "phone": "03-6227420",
             "address": "Rotenberg 7, Rishon LeZion",
@@ -48,8 +44,8 @@ db = {
             "donations": []
         },
 
-
         # תל אביב
+
         "Krembo Wings": {
             "phone": "054-830-7150",
             "address": "Nitzanim School - Andersen 22, Tel Aviv",
@@ -59,7 +55,6 @@ db = {
             "type": "volunteer",
             "donors": [],
             "donations": []
-
         },
         "WIZO Tel Aviv": {
             "phone": "03-641-0165",
@@ -70,9 +65,7 @@ db = {
             "type": "products",
             "donors": [],
             "donations": []
-
         },
-
         # הרצליה
         "E.L.H. Herzliya": {
             "phone": "09-9519828",
@@ -83,7 +76,6 @@ db = {
             "type": "volunteer",
             "donors": [],
             "donations": []
-
         },
         "Your Family Air Force": {
             "phone": "09-9510250",
@@ -95,73 +87,41 @@ db = {
             "donors": [],
             "donations": []
         },
-
-        # כספיות כלליות
+        #
         "Heart Opening": {
             "phone": "04-998-5661",
             "address": "Unknown",
             "password": "0002",
             "website": "https://www.d.co.il/65688440/9010181/",
-
             "image": "assets/heart.png",
-
             "type": "money",
-
             "donors": [],
 
             "donations": []
-
         },
 
         "Living with Dignity": {
-
             "phone": "08-945-9558",
-
             "address": "Unknown",
-
             "password": "0009",
-
             "website": "https://lp.l-b.org.il/",
-
             "image": "assets/dignity.png",
-
             "type": "money",
-
             "donors": [],
-
             "donations": []
-
         },
-
         "Cancer Donations": {
-
             "phone": "1-800-599-995",
-
             "address": "Unknown",
-
             "password": "0010",
-
             "website": "https://donate.cancer.org.il/",
-
             "image": "assets/cancer.png",
-
             "type": "money",
-
             "donors": [],
-
             "donations": []
-
         }
-
     },
-
-    "tree": {
-
-        "seeds": 0
-
-    }
-
-}
+    "tree": { "seeds": 0 }}
 
 
 
